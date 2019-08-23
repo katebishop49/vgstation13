@@ -421,6 +421,7 @@
 #define AMINOCYPRINIDOL	"aminocyprinidol"
 #define TOMATO_SOUP		"tomato_soup"
 #define LUMINOL			"luminol"
+#define PYROXADONE      "pyroxadone"
 
 // How many units of reagent are consumed per tick, by default.
 #define REAGENTS_METABOLISM 0.2
